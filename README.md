@@ -1,2 +1,8 @@
 
-more information about GitHub
+<<<<<<< Updated upstream
+# more information about 
+
+# GitHub
+=======
+# Github
+>>>>>>> Stashed changes
